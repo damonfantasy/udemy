@@ -1,5 +1,5 @@
 FROM nginx:alpine
-LABEL maintainer="contact@laurent.bzh"
+LABEL maintainer="contactbis@laurent.bzh"
 RUN apk update
 EXPOSE 80
 
